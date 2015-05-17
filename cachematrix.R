@@ -1,5 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Jackie Milhans - Programming Assignment 2
+# assumes that the matrix supplied is always invertible.
+# Two functions:  makeCacheMatrix - returns special "matrix"
+# cacheSolve - returns cached inverse if available or solves for inverse
 
 # This function creates a special "matrix" object 
 # that can cache its inverse.
